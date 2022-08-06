@@ -1,7 +1,7 @@
 # RapidIdentitySpray
 RapidIdentity Portal Password Spraying Tool
 ```
-usage: rapid.py [-h] -u USERS -p PASSWORD -t TARGET [-s SLEEP]
+usage: rapidspray.py [-h] -u USERS -p PASSWORD -t TARGET [-s SLEEP]
 
 RapidIdentity IAM Portal Bruteforce Tool
 
